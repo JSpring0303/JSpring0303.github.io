@@ -382,7 +382,7 @@ body{
                 display: inline;
                 background-image: none;
                 background-color: black;
-                height: 80px;
+                height: 20%;
             }
         
             .nb_logo_title{
@@ -406,6 +406,7 @@ body{
                 padding-bottom: 0%;
                 margin-top: 0%;
                 margin-bottom: 0%;
+                width: fit-content;
             }
 
 
@@ -428,7 +429,6 @@ body{
             .banner1 h1{
                 margin-right: 10%;
                 margin-left: 10%;
-                display: inline;
                 padding-top: 0%;
             }
 
@@ -439,7 +439,6 @@ body{
             .banner2 h1{
                 margin-right: 10%;
                 margin-left: 10%;
-                display: inline;
                 padding-top: 0%;
             }
 
