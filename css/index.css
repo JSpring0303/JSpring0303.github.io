@@ -399,7 +399,6 @@ body{
 
 
             .nb_menu{
-                display: flex;
                 margin-left: 10%;
                 padding-right: 0%;
                 border: none;
@@ -408,15 +407,19 @@ body{
                 margin-bottom: 0%;
                 width: fit-content;
                 align-content: center;
+                align-items: center;
             }
 
             .nb_menu ul{
                 margin-top: 0%;
+                margin-right: 0%;
+                margin-left: 0%;
             }
 
 
             .nb_drop {
                 margin-top: 0%;
+                width: 100%;
             }
 
 
