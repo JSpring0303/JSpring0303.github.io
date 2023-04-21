@@ -378,12 +378,10 @@ body{
     and (max-width: 768pt){
 
 
-
-            /* titles */
-
-            .para1 h1{
-                font-size: 68px;
+            .nav_bar{
+                display: inline;
             }
+        
 
 
             .group1-section{
@@ -391,17 +389,8 @@ body{
                 margin-left: 10%;
             }
 
-            /* subtitle */
 
-            .group1-section h1{
-                font-size: 42px;
-            }
-
-            /* body text */
-
-            .group1-section p{
-                font-size: 24px;
-            }
+            
 
 
 
