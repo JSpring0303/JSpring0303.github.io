@@ -425,9 +425,24 @@ body{
                 display: none;
             }
 
+            .banner1 h1{
+                margin-right: 10%;
+                margin-left: 10%;
+                display: inline;
+                padding-top: 0%;
+            }
+
             .banner2 img{
                 display: none;
             }
+
+            .banner2 h1{
+                margin-right: 10%;
+                margin-left: 10%;
+                display: inline;
+                padding-top: 0%;
+            }
+
 
 
 
