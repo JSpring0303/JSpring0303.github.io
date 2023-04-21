@@ -388,6 +388,7 @@ body{
             .nb_logo_title{
                 margin-right: 10%;
                 margin-left: 10%;
+                margin-bottom: 0%;
             }
 
 
@@ -399,6 +400,7 @@ body{
             .nb_menu{
                 margin-right: 10%;
                 margin-left: 10%;
+                padding-right: 0%;
             }
 
 
