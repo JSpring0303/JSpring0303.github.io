@@ -400,8 +400,6 @@ body{
 
             .nb_menu{
                 display: inline;
-                justify-content: center;
-                text-align: center;
                 margin-left: 0%;
                 margin-right: 0%;
                 padding-right: 0%;
@@ -409,15 +407,19 @@ body{
                 border: none;
                 padding-bottom: 0%;
                 margin-top: 0%;
-                margin-bottom: 5%;
+                margin-bottom: 0%;
                 width: 100%;
 
             }
 
             .nb_menu ul{
+                justify-content: center;
+                text-align: center;
                 margin-top: 0%;
                 margin-right: 0%;
                 margin-left: 0%;
+                margin-bottom: 0%;
+                padding-bottom: 3%;
             }
 
 
