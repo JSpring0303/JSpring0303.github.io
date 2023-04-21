@@ -401,10 +401,8 @@ body{
             .nb_menu{
                 display: inline;
                 justify-content: center;
-                align-items: center;
-                justify-content: space-around;
                 text-align: center;
-                margin-left: 10%;
+                margin-left: 30%;
                 margin-right: 0%;
                 padding-right: 0%;
                 padding-left: 0%;
