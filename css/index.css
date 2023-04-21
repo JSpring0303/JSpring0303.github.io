@@ -399,6 +399,7 @@ body{
 
 
             .nb_menu{
+                display: block;
                 margin-left: 0%;
                 margin-right: 0%;
                 padding-right: 0%;
