@@ -404,9 +404,11 @@ body{
             }
 
 
-            .nb_drop ul{
+            .nb_drop {
                 margin-top: 0%;
             }
+
+
 
             .group1-section{
                 margin-right: 10%;
@@ -414,7 +416,13 @@ body{
             }
 
 
-            
+            .banner1 img{
+                display: none;
+            }
+
+            .banner2 img{
+                display: none;
+            }
 
 
 
