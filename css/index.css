@@ -397,11 +397,8 @@ body{
 
 
             .nb_menu{
-                display: inline;
-            }
-
-            .nb_menu ul{
-                display: flex;
+                margin-right: 10%;
+                margin-left: 10%;
             }
 
 
