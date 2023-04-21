@@ -395,6 +395,16 @@ body{
                 margin-top: 5%;
             }
 
+
+            .nb_menu{
+                display: inline;
+            }
+
+            .nb_menu ul{
+                display: flex;
+            }
+
+
             .nb_drop ul{
                 margin-top: 0%;
             }
