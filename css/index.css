@@ -394,6 +394,7 @@ body{
 
             .nb_logo_title ul{
                 margin-top: 5%;
+                margin-bottom: 0%;
             }
 
 
@@ -407,6 +408,10 @@ body{
                 margin-top: 0%;
                 margin-bottom: 0%;
                 width: fit-content;
+            }
+
+            .nb_menu ul{
+                margin-top: 0%;
             }
 
 
@@ -427,9 +432,7 @@ body{
             }
 
             .banner1 h1{
-                margin-right: 10%;
-                margin-left: 10%;
-                padding-top: 0%;
+                margin: auto;
             }
 
             .banner2 img{
@@ -437,9 +440,7 @@ body{
             }
 
             .banner2 h1{
-                margin-right: 10%;
-                margin-left: 10%;
-                padding-top: 0%;
+                margin: auto;
             }
 
 
