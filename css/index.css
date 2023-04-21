@@ -401,15 +401,17 @@ body{
             .nb_menu{
                 display: inline;
                 justify-content: center;
+                align-items: center;
+                justify-content: space-around;
                 text-align: center;
-                margin-left: 0%;
+                margin-left: 10%;
                 margin-right: 0%;
                 padding-right: 0%;
                 padding-left: 0%;
                 border: none;
                 padding-bottom: 0%;
                 margin-top: 0%;
-                margin-bottom: 0%;
+                margin-bottom: 3%;
                 width: 100%;
 
             }
