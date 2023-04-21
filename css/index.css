@@ -380,9 +380,15 @@ body{
 
             .nav_bar{
                 display: inline;
+                background-image: none;
+                background-color: black;
+
             }
         
-
+            .nb_logo_title{
+                margin-right: 10%;
+                margin-left: 10%;
+            }
 
             .group1-section{
                 margin-right: 10%;
