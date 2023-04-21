@@ -399,7 +399,6 @@ body{
 
 
             .nb_menu{
-                display: flex;
                 margin-left: 0%;
                 margin-right: 0%;
                 padding-right: 0%;
@@ -413,8 +412,10 @@ body{
             }
 
             .nb_menu ul{
+                display: flex;
                 justify-content: center;
                 text-align: center;
+                background-color: blue;
                 margin-top: 0%;
                 margin-right: 0%;
                 margin-left: 0%;
