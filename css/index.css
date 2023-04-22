@@ -413,7 +413,7 @@ body{
             }
 
             .nb_menu ul{
-                display: block;
+                display: flex;
                 justify-content: center;
                 text-align: center;
                 margin-top: 0%;
