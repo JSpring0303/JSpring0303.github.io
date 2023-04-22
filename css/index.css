@@ -383,7 +383,7 @@ body{
                 display: inline;
                 background-image: none;
                 background-color: black;
-                min-height: 30%;
+                min-height: 20%;
                 justify-content: start;
             }
         
@@ -444,6 +444,10 @@ body{
 
             .nb_drop ul{
                 margin-top: 0%;
+                justify-content: end;
+            }
+
+            .nb_drop li{
                 justify-content: end;
             }
 
