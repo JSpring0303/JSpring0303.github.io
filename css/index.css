@@ -382,8 +382,8 @@ body{
                 display: inline;
                 background-image: none;
                 background-color: black;
-                min-height: 140pt;
-                justify-content: normal;
+                min-height: 30%;
+                justify-content: start;
             }
         
             .nb_logo_title{
