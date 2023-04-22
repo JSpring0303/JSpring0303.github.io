@@ -400,6 +400,10 @@ body{
                 margin-bottom: 0%;
             }
 
+            .nb_logo_title img{
+                margin-top: 25%;
+            }
+
 
             .nb_menu{
                 display: block;
@@ -418,7 +422,7 @@ body{
 
             .nb_menu ul{
                 display: flex;
-                justify-content: center;
+                justify-content: start;
                 text-align: center;
                 margin-top: 0%;
                 margin-right: 0%;
