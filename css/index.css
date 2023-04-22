@@ -444,6 +444,7 @@ body{
 
             .nb_drop ul{
                 margin-top: 0%;
+                justify-content: end;
             }
 
 
