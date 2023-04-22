@@ -422,7 +422,7 @@ body{
 
             .nb_menu ul{
                 display: flex;
-                justify-content: start;
+                justify-content: center;
                 text-align: center;
                 margin-top: 0%;
                 margin-right: 0%;
@@ -432,6 +432,10 @@ body{
                 padding-right: 0%;
             }
 
+
+            .nb_menu li{
+                margin-top: 0%;
+            }
 
             .nb_drop {
                 margin-top: 0%;
