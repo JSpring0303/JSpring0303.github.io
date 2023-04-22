@@ -445,10 +445,13 @@ body{
             .nb_drop ul{
                 margin-top: 0%;
                 justify-content: end;
+                margin-right: 15%;
             }
 
             .nb_drop li{
+                margin-top: 0%;
                 justify-content: end;
+                margin-right: 0%;
             }
 
 
