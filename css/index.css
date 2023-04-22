@@ -458,8 +458,8 @@ body{
 
             .para1{
                 margin-top: 10%;
-                background-size: contain;
-                background-position: center;
+                background-size: cover;
+                background-position: 80%;
             }
 
 
