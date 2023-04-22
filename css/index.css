@@ -55,7 +55,8 @@ body{
 }
 
 .nb_logo_title img{
-    height: 217px;
+    margin-top: 15%;
+    height: 150px;
     align-items: center;
 }
 
@@ -384,7 +385,6 @@ body{
                 background-color: black;
                 min-height: 30%;
                 justify-content: start;
-                font-size: 0;
             }
         
             .nb_logo_title{
