@@ -383,6 +383,7 @@ body{
                 background-image: none;
                 background-color: black;
                 min-height: 20%;
+                justify-content: normal;
             }
         
             .nb_logo_title{
